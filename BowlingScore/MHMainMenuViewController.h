@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  MHMainMenuViewController.h
 //  BowlingScore
 //
 //  Created by Micah Hainline on 8/3/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface MHMainMenuViewController : UIViewController
 
 @end
-
